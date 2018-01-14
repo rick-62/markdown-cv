@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Richard Owen's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Richard Owen
+Engineer | Data Analyst | Programmer.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
