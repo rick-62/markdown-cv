@@ -3,11 +3,11 @@ layout: cv
 title: Richard Owen's CV
 ---
 # Richard Owen
-Engineer | Data Analyst | Programmer.
+Engineer, Data Analyst, Programmer.
 
 <div id="webaddress">
-<a href="rick-62@hotmail.co.uk">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="rick-62@hotmail.co.uk">rick-62@hotmail.co.uk</a>
+  | <a href="https://rick-62.github.io/markdown-cv/">Online Version</a>
 </div>
 
 
@@ -23,11 +23,11 @@ Python, Machine Learning, Regular Expressions, SAS EG, HTML/CSS.
 
 Pandas, NumPy, Scikit-Learn, RegEx, BeautifulSoup.
 
-### Independent Learning
+## Independent Learning
 
-Andrew Ng's Machine Learning ([Coursera](https://www.coursera.org/learn/machine-learning))
-Computer Science 
-
+- Andrew Ng's Machine Learning ([Coursera](https://www.coursera.org/learn/machine-learning))
+- Computer Science ([From Nand to Tetris](http://nand2tetris.org/)
+- Certificate in Financial Mathematics (Institue and Faculty of Actuaries)
 
 ### Research interests
 
