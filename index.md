@@ -3,7 +3,7 @@ layout: cv
 title: Richard Owen's CV
 ---
 # Richard Owen
-Engineer, Data Analyst, Programmer.
+Engineer, <i>Data Analyst</i>, Programmer.
 
 <div id="webaddress">
 <a href="rick-62@hotmail.co.uk">rick-62@hotmail.co.uk</a>
