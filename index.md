@@ -6,18 +6,27 @@ title: Richard Owen's CV
 Engineer | Data Analyst | Programmer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="rick-62@hotmail.co.uk">isaac@applesdofall.org</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Data Analyst at HMRC
 
-### Specialized in
+## Technical Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Python, Machine Learning, Regular Expressions, SAS EG, HTML/CSS.
+
+### Libraries
+
+Pandas, NumPy, Scikit-Learn, RegEx, BeautifulSoup.
+
+### Independent Learning
+
+Andrew Ng's Machine Learning ([Coursera](https://www.coursera.org/learn/machine-learning))
+Computer Science 
 
 
 ### Research interests
