@@ -60,7 +60,7 @@ __Urmston Grammar 6th Form College.__
 Data Analyst, __HM Revenue & Customs__, Leeds
 
 * Primarily working with large datasets
-* Developed <i>K-Means</i> Clustering_ in Excel
+* Developed <i>K-Means</i> Clustering in Excel
 * Won a Hackathon and presented findings to fellow Analysts
 * Help maintain VB/Excel apps
 
