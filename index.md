@@ -26,7 +26,7 @@ Pandas, NumPy, Scikit-Learn, RegEx, BeautifulSoup.
 ## Current Projects
 
 **RightMove API:** 
-Web scraping <i>Python</i> app. Search Criteria can be passed to a Class Method and a <i>Pandas</i> DataFrame is output. Working on description analysis, to extract keywords and blending with area demographics and Google's Map API.
+Web scraping <em>Python</em> app. Search Criteria can be passed to a Class Method and a <i>Pandas</i> DataFrame is output. Working on description analysis, to extract keywords and blending with area demographics and Google's Map API.
 <br><br>
 **FTSE Stock Picker:** 
 Using <i>Scikit-Learn's</i> Random Forest Classifier to pick stocks, which will increase by a specified threshold. Includes hyperparameter optimisation, approximately 10 financial features created in <i>NumPy</i> and Backtesting. 
