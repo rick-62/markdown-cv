@@ -33,9 +33,9 @@ Using <i>Scikit-Learn's</i> Random Forest Classifier to pick stocks, which will 
 
 ## Independent Learning
 
-⋅⋅* Andrew Ng's Machine Learning ([Coursera](https://www.coursera.org/learn/machine-learning))
-⋅⋅* Computer Science ([From Nand to Tetris](http://nand2tetris.org/))
-⋅⋅* Certificate in Financial Mathematics (Institute and Faculty of Actuaries)
+...Andrew Ng's Machine Learning ([Coursera](https://www.coursera.org/learn/machine-learning))
+...Computer Science ([From Nand to Tetris](http://nand2tetris.org/))
+...Certificate in Financial Mathematics (Institute and Faculty of Actuaries)
 
 ### Interests
 ⋅⋅* Coding challenges (CodeEval, Advent of Code)
