@@ -38,7 +38,8 @@ Using <i>Scikit-Learn's</i> Random Forest Classifier to pick stocks, which will 
 ⋅⋅* Certificate in Financial Mathematics (Institute and Faculty of Actuaries)
 
 ### Interests
-Coding challenges (CodeEval, Advent of Code)
+⋅⋅* Coding challenges (CodeEval, Advent of Code)
+⋅⋅* Podcasts (Partially Derivative, Data Skeptic, Talk Python)
 
 ## Education
 
