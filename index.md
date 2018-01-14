@@ -26,10 +26,10 @@ Pandas, NumPy, Scikit-Learn, RegEx, BeautifulSoup.
 ## Current Projects
 
 **RightMove API:** 
-Web scraping <em>Python</em> app. Search Criteria can be passed to a Class Method and a <i>Pandas</i> DataFrame is output. Working on description analysis, to extract keywords and blending with area demographics and Google's Map API.
+Web scraping <em>Python</em> app. Search Criteria can be passed to a Class Method and a <em>Pandas</em> DataFrame is output. Working on description analysis, to extract keywords and blending with area demographics and Google's Map API.
 <br><br>
 **FTSE Stock Picker:** 
-Using <i>Scikit-Learn's</i> Random Forest Classifier to pick stocks, which will increase by a specified threshold. Includes hyperparameter optimisation, approximately 10 financial features created in <i>NumPy</i> and Backtesting. 
+Using <em>Scikit-Learn's</em> Random Forest Classifier to pick stocks, which will increase by a specified threshold. Includes hyperparameter optimisation, approximately 10 financial features created in <em>NumPy</em> and Backtesting. 
 
 ## Independent Learning
 
@@ -60,7 +60,7 @@ __Urmston Grammar 6th Form College.__
 Data Analyst, __HM Revenue & Customs__, Leeds
 
 1. Primarily working with large datasets
-2. Developed <i>K-Means</i> Clustering in Excel
+2. Developed <em>K-Means</em> Clustering in Excel
 3. Won a Hackathon and presented findings to fellow Analysts
 4. Help maintain VB/Excel apps
 
@@ -68,7 +68,7 @@ Data Analyst, __HM Revenue & Customs__, Leeds
 Test & Conformance Engineer, __Sidhil Ltd__, Halifax
 
 1. Responsible for all in-house testing
-2. Created <i>Python</i> apps to automate tasks
+2. Created *Python* apps to automate tasks
 3. Programmed PLCs for custom built test rigs
 4. Used Finite Element Analysis to assist design
 
