@@ -25,13 +25,14 @@ Pandas, NumPy, Scikit-Learn, RegEx, BeautifulSoup.
 
 ## Independent Learning
 
-- Andrew Ng's Machine Learning ([Coursera](https://www.coursera.org/learn/machine-learning))
+Andrew Ng's Machine Learning ([Coursera](https://www.coursera.org/learn/machine-learning))
 - Computer Science ([From Nand to Tetris](http://nand2tetris.org/)
 - Certificate in Financial Mathematics (Institue and Faculty of Actuaries)
 
-### Research interests
+## Interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Coding Challenges (CodeEval, Advent of Code)
+
 
 
 ## Education
