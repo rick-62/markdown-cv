@@ -32,7 +32,7 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: circle;
+	list-style: none;
 }
 blockquote, q {
 	quotes: none;
@@ -91,7 +91,7 @@ ul {
 	margin-top: -0.5em;
 }
 
-/*uncomment to get dashes in the list*/
+uncomment to get dashes in the list
 /*li:before {
 	content: "-";
 	position: relative;
