@@ -7,7 +7,7 @@ Engineer, Data Analyst, Programmer.
 
 <div id="webaddress">
 <a href="rick-62@hotmail.co.uk">rick-62@hotmail.co.uk</a>
-  | <a href="https://rick-62.github.io/markdown-cv/">Online Version</a>
+  | <a href="https://rick-62.github.io/markdown-cv/">Online CV</a>
 </div>
 
 
