@@ -46,7 +46,7 @@ Andrew Ng's Machine Learning ([Coursera](https://www.coursera.org/learn/machine-
 `2008 - 2011`
 __University of Manchester.__
 
-- BEng Honours 2:1
+- BEng Honours 2:1 Mechanical Engineering
 
 `2006 - 2008`
 __Urmston Grammar 6th Form College.__
