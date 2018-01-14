@@ -88,7 +88,15 @@ p code {
 }
 
 
-ul, ol { 
+ul { 
+	position: relative;
+	left: 33%;
+	width: 65%;
+	margin-bottom: 1.5em;
+	margin-top: 0em;
+}
+
+ol {
 	position: relative;
 	left: 33%;
 	width: 65%;
@@ -110,7 +118,14 @@ li {
 	/*color: #777;*/
 }
 
-li ul, li ol {
+li ul {
+	position: relative;
+	left: 0;
+	width: 100%;
+	margin-top: 0.25em;
+}
+
+li ol {
 	position: relative;
 	left: 0;
 	width: 100%;
