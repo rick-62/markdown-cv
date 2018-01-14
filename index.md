@@ -33,10 +33,12 @@ Using <i>Scikit-Learn's</i> Random Forest Classifier to pick stocks, which will 
 
 ## Independent Learning
 
-Andrew Ng's Machine Learning ([Coursera](https://www.coursera.org/learn/machine-learning))
-- Computer Science ([From Nand to Tetris](http://nand2tetris.org/))
-- Certificate in Financial Mathematics (Institue and Faculty of Actuaries)
-- Coding Challenges (CodeEval, Advent of Code)
+⋅⋅* Andrew Ng's Machine Learning ([Coursera](https://www.coursera.org/learn/machine-learning))
+⋅⋅* Computer Science ([From Nand to Tetris](http://nand2tetris.org/))
+⋅⋅* Certificate in Financial Mathematics (Institute and Faculty of Actuaries)
+
+### Interests
+Coding challenges (CodeEval, Advent of Code)
 
 ## Education
 
@@ -56,25 +58,25 @@ __Urmston Grammar 6th Form College.__
 `2017 - now`
 Data Analyst, __HM Revenue & Customs__, Leeds
 
-- Primarily working with large datasets
-- Developed <i>K-Means</i> Clustering_ in Excel
-- Won a Hackathon and presented findings to fellow Analysts
-- Help maintain VB/Excel apps
+⋅⋅* Primarily working with large datasets
+⋅⋅* Developed <i>K-Means</i> Clustering_ in Excel
+⋅⋅* Won a Hackathon and presented findings to fellow Analysts
+⋅⋅* Help maintain VB/Excel apps
 
 `2014 - 2017`
 Test & Conformance Engineer, __Sidhil Ltd__, Halifax
 
-- Responsible for all in-house testing
-- Created <i>Python</i> apps to automate tasks
-- Programmed PLCs for custom built test rigs
-- Used Finite Element Analysis to assist design
+⋅⋅* Responsible for all in-house testing
+⋅⋅* Created <i>Python</i> apps to automate tasks
+⋅⋅* Programmed PLCs for custom built test rigs
+⋅⋅* Used Finite Element Analysis to assist design
 
 `2011 - 2014`
 Test & Service Engineer, __Latchways PLC__, Devizes
 
-- Responsible for in-house testing
-- Data analysis and validation with mathematical predictions
-- Created Excel Project Management app
+⋅⋅* Responsible for in-house testing
+⋅⋅* Data analysis and validation with mathematical predictions
+⋅⋅* Created Excel Project Management app
 
 <!-- ### Footer
 
