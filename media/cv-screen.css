@@ -88,7 +88,7 @@ ul {
 	left: 33%;
 	width: 65%;
 	margin-bottom: 1.5em;
-	margin-top: -0.5em;
+	margin-top: 0em;
 }
 
 /*uncomment to get dashes in the list*/
@@ -174,7 +174,6 @@ a:hover {
 }
 
 em {
-	font-weight: bold;
 	font-style: italic;
 }
 
