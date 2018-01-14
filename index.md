@@ -59,25 +59,25 @@ __Urmston Grammar 6th Form College.__
 `2017 - now`
 Data Analyst, __HM Revenue & Customs__, Leeds
 
-1. Primarily working with large datasets
-2. Developed *K-Means* Clustering in Excel
-3. Won a Hackathon and presented findings to fellow Analysts
-4. Help maintain VB/Excel apps
+* Primarily working with large datasets
+* Developed *K-Means* Clustering in Excel
+* Won a Hackathon and presented findings to fellow Analysts
+* Help maintain VB/Excel apps
 
 `2014 - 2017`
 Test & Conformance Engineer, __Sidhil Ltd__, Halifax
 
-1. Responsible for all in-house testing
-2. Created *Python* apps to automate tasks
-3. Programmed PLCs for custom built test rigs
-4. Used Finite Element Analysis to assist design
+* Responsible for all in-house testing
+* Created *Python* apps to automate tasks
+* Programmed PLCs for custom built test rigs
+* Used Finite Element Analysis to assist design
 
 `2011 - 2014`
 Test & Service Engineer, __Latchways PLC__, Devizes
 
-1. Responsible for in-house testing
-2. Data analysis and validation with mathematical predictions
-3. Created Excel Project Management app
+* Responsible for in-house testing
+* Data analysis and validation with mathematical predictions
+* Created Excel Project Management app
 
 <!-- ### Footer
 
