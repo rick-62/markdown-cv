@@ -6,7 +6,7 @@ title: Richard Owen's CV
 Engineer, Data Analyst, Programmer.
 
 <div id="webaddress">
-<a href="rick-62@hotmail.co.uk">rick-62@hotmail.co.uk</a>
+<a href="mailto:rick-62@hotmail.co.uk">rick-62@hotmail.co.uk</a>
   | <a href="https://rick-62.github.io/markdown-cv/">Online CV</a>
 </div>
 
@@ -25,8 +25,7 @@ Pandas, NumPy, Scikit-Learn, RegEx, BeautifulSoup.
 
 ## Current Projects
 
-**RightMove API:** 
-Web scraping *Python* app. Search Criteria can be passed to a Class Method and a *Pandas* DataFrame is output. Working on description analysis, to extract keywords and blending with area demographics and Google's Map API.
+**RightMove API:** Working on a web scraping *Python* app to help myself and others quickly find properties with a variety of requirements. Created a Class, allowing Search Criteria can be passed to an object and a *Pandas* DataFrame outputs a list of the required properties. The output is seemlessly created, perfoming various web scraping on RightMoves website. Working on description analysis, to extract keywords and blending with area demographics and Google's Map API.
 <br><br>
 **FTSE Stock Picker:** 
 Using *Scikit-Learn's* Random Forest Classifier to pick stocks, which will increase by a specified threshold. Includes hyperparameter optimisation, approximately 10 financial features created in *NumPy* and Backtesting. 
