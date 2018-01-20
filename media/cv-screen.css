@@ -65,7 +65,7 @@ body {
 p {
 	position: relative;
 	left: 22%;
-	margin-bottom: 0.7em;
+	margin-bottom: 0.5em;
 	margin-right: 0;
 	width: 70%;
 }
@@ -111,7 +111,7 @@ li ul {
 	position: relative;
 	left: 0;
 	width: 100%;
-	margin-top: 0.25em;
+	margin-top: 0.1em;
 }
 
 
@@ -140,7 +140,7 @@ h2 {
 	color: #a00;
 	margin-top: 3em;
 	position: relative;
-	top: 1.4em;
+	top: 1.3em;
 	text-align: right;
 	width: 20%;
 }
