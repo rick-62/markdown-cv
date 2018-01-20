@@ -42,38 +42,34 @@ Using *Scikit-Learn's* Random Forest Classifier to pick stocks, which will incre
 
 ## Education
 
-`2008 - 2011`
-__University of Manchester.__
+`2008-2011`&emsp;
+ __University of Manchester.__
 
 - BEng Honours 2:1 Mechanical Engineering
 
-`2006 - 2008`
+`2006-2008`&emsp;
 __Urmston Grammar 6th Form College.__
-
 - GCE A Levels: Maths (A), Chemistry (B), Physics (B)
 - GCE AS Level: Electronics (B)
 
 ## Professional Experience
 
-`2017 - now`
+`2017-now `&emsp;
 Data Analyst, __HM Revenue & Customs__, Leeds
-
 * Primarily working with large datasets
 * Developed *K-Means* Clustering in Excel
 * Won a Hackathon and presented findings to fellow Analysts
 * Help maintain VB/Excel apps
 
-`2014 - 2017`
+`2014-2017`&emsp;
 Test & Conformance Engineer, __Sidhil Ltd__, Halifax
-
 * Responsible for all in-house testing
 * Created *Python* apps to automate tasks
 * Programmed PLCs for custom built test rigs
 * Used Finite Element Analysis to assist design
 
-`2011 - 2014`
+`2011-2014`&emsp;
 Test & Service Engineer, __Latchways PLC__, Devizes
-
 * Responsible for in-house testing
 * Data analysis and validation with mathematical predictions
 * Created Excel Project Management app

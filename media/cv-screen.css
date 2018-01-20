@@ -64,10 +64,10 @@ body {
 
 p {
 	position: relative;
-	left: 33%;
+	left: 22%;
 	margin-bottom: 0.7em;
 	margin-right: 0;
-	width: 65%;
+	width: 70%;
 }
 
 code {
@@ -78,16 +78,16 @@ code {
 	color: #aaa;
 }
 
-p code {
+/*p code {
 	position: absolute;
 	left: -17%;
-}
+}*/
 
 
 ul { 
 	position: relative;
-	left: 33%;
-	width: 65%;
+	left: 22%;
+	width: 70%;
 	margin-bottom: 1.5em;
 	margin-top: 0em;
 }
@@ -126,7 +126,7 @@ h1 {
 	font-size: 3em;
 	line-height: 1em;
 	position: relative;
-	left: 33%;
+	left: 22%;
 }
 
 h1+p { 
@@ -166,7 +166,7 @@ a:hover {
 #webaddress {
 	margin-top: 1em;
 	position: relative;
-	left: 33%;
+	left: 22%;
 	color: #aaa;
 	font-family: Menlo,monospace,sans-serif;
 	font-size: 90%;
