@@ -30,6 +30,7 @@ Built common models (Linear/Logistic Regression, Neural Network, SVM, KMeans clu
 **Computer Science**
 <br> 
 Completed course _from Nand to Tetris_. Constructed 16-bit CPU and RAM from NAND gates, created Assembly Language, Virtual Machine and High-Level Language, using Python. Have good knowledge of trade-offs between memory and speed and have gained a continued understanding of efficiencies.
+<br><br>
 
 **SAS EG & SQL**
 &emsp;`1 year` <br>
